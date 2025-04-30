@@ -11,6 +11,7 @@ pkgs.mkShell {
     python3Packages.pandas
     python3Packages.ipython
     python3Packages.scikit-image
+    python3Packages.scikit-learn
     python3Packages.plotly
     python3Packages.nbformat
 
